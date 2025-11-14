@@ -2,7 +2,7 @@
     "name": "zaimea/commonmark-steps",
     "license": "MIT",
     "homepage": "https://zaimea.com",
-    "description": "CommonMark extension adds Steps tag for the `league/commonmark` PHP Markdown parsing engine, based on the CommonMark spec.",
+    "description": "CommonMark extension adds Steps tag for the league/commonmark PHP Markdown parsing engine, based on the CommonMark spec.",
     "keywords": [
         "laravel",
         "commonmark",

@@ -1,7 +1,7 @@
 ---
 title: How to install package
 description: How to install package
-github: https://github.com/zaimealabs/commonmark-steps/docs/edit/main/
+github: https://github.com/zaimealabs/commonmark-steps/edit/main/docs/
 ---
 
 # CommonMark Steps
